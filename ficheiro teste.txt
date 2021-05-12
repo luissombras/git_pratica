@@ -1,1 +1,2 @@
 eu adoro o versionamento
+corrigi o bug
